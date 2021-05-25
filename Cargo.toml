@@ -1,0 +1,11 @@
+[package]
+name = "vodovod"
+version = "0.1.0"
+authors = ["vedranvinko <vinkovedran@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+colored = "1.8.0"
+reqwest = "0.9.18"
+select = "0.4.2"
+webbrowser = "0.5.1"
